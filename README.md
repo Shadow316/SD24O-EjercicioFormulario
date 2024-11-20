@@ -24,7 +24,7 @@ El servidor debe recibir los datos enviados desde el formulario y realizar las s
 
 ### 3. Almacenar el código en un repositorio de GitHub
 
-El código debe ser almacenado en un repositorio público de GitHub con el nombre `SD24O-EjercicioFormulario`. Asegúrate de incluir un enlace al repositorio en el README.
+El código debe ser almacenado en un repositorio público de GitHub con el nombre `SD24O-EjercicioFormulario`.
 
 ## Requisitos
 
